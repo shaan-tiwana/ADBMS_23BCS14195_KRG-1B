@@ -1,0 +1,3 @@
+# ADBMS_23BCS14195_KRG-1B
+Name - Gurshaan Singh   
+UID - 23BCS14195
